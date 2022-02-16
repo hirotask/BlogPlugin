@@ -1,0 +1,7 @@
+name: BlogPlugin
+version: '${version}'
+main: jp.ne.sakura.erudoblog.blogplugin.BlogPlugin
+api-version: 1.18
+authors: [ erudo ]
+description: ブログで紹介したコードを載せています
+website: https://erudo-blog.sakura.ne.jp/blog/
